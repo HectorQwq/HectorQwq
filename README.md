@@ -6,7 +6,7 @@
 
 ###
 
-<p align="left">Yo soy de Lima Este UCV <br>- 🔭 En busca de demosytar mis Skills...<br>- 📚 Actualmente estoy 9vo<br>- ⚡En mi tiempo libre aprendo e investigo nuevos desarrollos</p>
+<p align="left">Yo soy de Lima Este UCV <br>- 🔭 En busca de demostrar mis Skills...<br>- 📚 Actualmente estoy 9vo<br>- ⚡En mi tiempo libre aprendo e investigo nuevos desarrollos</p>
 
 ###
 
@@ -86,5 +86,6 @@
   <source media="(prefers-color-scheme: light)" srcset="https://raw.githubusercontent.com/HectorQwq/HectorQwq/output/pacman-contribution-graph.svg">
   <img alt="pacman contribution graph" src="https://raw.githubusercontent.com/HectorQwq/HectorQwq/output/pacman-contribution-graph.svg">
 </picture>
+
 
 ###
